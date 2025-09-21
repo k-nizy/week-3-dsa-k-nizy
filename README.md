@@ -291,11 +291,11 @@ git push origin main
 
 
 ### Update This Section
-**My chosen data structure:** [Stack/Queue/LinkedList]
+**My chosen data structure:** Stack
 
-**Enterprise use case:** [Brief description of your chosen real-world scenario]
+**Enterprise use case:** Browser history management in web applications
 
-**Key insight:** [One thing you learned about performance trade-offs]
+**Key insight:** The O(1) time complexity for push and pop operations makes stacks extremely efficient for LIFO scenarios, which is crucial for responsive user experiences in web applications.
 
 
 ## Reflection Questions (Include in COMPLEXITY_ANALYSIS.md)
